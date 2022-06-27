@@ -4,7 +4,7 @@ Renders an Augmented Reality car using mobile camera.
 
 ## Author
 
-[Darwin Jerome](darwinjerome@gmail.com)
+[Darwin Jerome]
 
 ### Stack
 
